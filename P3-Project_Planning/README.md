@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Wireframes added as an PDF file attached.
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/9lz0G8it/history-trails
 
 ### Project Repo Link
+https://github.com/dineshsharma14/history-tours
 
-(Include a link to your project on GitHub)
