@@ -15,5 +15,5 @@ Wireframes added as an PDF file attached.
 https://trello.com/b/9lz0G8it/history-trails
 
 ### Project Repo Link
-https://github.com/dineshsharma14/history-tours
+https://github.com/dineshsharma14/history-travels
 
